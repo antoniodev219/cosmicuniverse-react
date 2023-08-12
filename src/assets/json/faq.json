@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "What is Cosmic Universe?",
+    "description": "<p>Cosmic Universe is a fantasy blockchain metaverse world-builder and MMORPG with tradable NFTs on the Avalanche blockchain. It is an immersive fantasy metaverse adventure MMORPG where players explore realms, gather, harvest, mine, develop increasingly-advanced plots and settlements, trade, level-up for magical powers and in-game rewards, and engage in PVP competitions and events.</p>"
+  },
+  {
+    "id": 2,
+    "title": "How is Cosmic Universe different from other blockchain games?",
+    "description": "<p>The vision of Cosmic Universe is to provide a canvas for people to create their own worlds to call their own. Cosmic Universe will be an epic place for wizards and others from all lands of the cosmic Universe metaverse to come relax and unwind in a place they can call their own.</p><p>Our world aims to bring a sense of inner peace by helping ease the stresses of daily normal life. You can escape those stresses and find great happiness building amazing settlements with your friends in the Cosmic Universe. We know everybody likes to unwind in their own way, so we will also have some fun (non-lethal) competitions and challenges thrown into the mix, so users can experience a sense of competition among the community.</p>"
+  },
+  {
+    "id": 3,
+    "title": "What can we do in the game?",
+    "description": "<p>There will be the Main Quests and Sidequests. The Main Quest involves gathering, harvesting, and mining resources to use for building structures and settlements. You may build on your own Land, or visit your friends' Lands to harvest their resources! Sidequests may involve competitions, challenges, and even PVP mechanics! More fun ideas may be added to the Cosmic Universe as we continue to expand.</p>"
+  },
+  {
+    "id": 4,
+    "title": "Is there lore for the game?",
+    "description": "<p>Yes! In fact, we have our very own Lore Master who crafts extensive lore about everything from the origins of races to typical daily life for specific characters, as well as everything in-between.</p>"
+  },
+  {
+    "id": 5,
+    "title": "When will Cosmic Universe be released?",
+    "description": "<p>While we don't have a specific release date yet, Cosmic Universe is slated to be released during early 2023, with the pre-alpha test version released in late 2022.</p>"
+  },
+  {
+    "id": 6,
+    "title": "How can I get early access to test Cosmic Universe?",
+    "description": "<p>To become a playtester for the pre-alpha of Cosmic Universe, you will need to have at least one land and character NFT, as well as be selected to be a part of the whitelist.</p>"
+  },
+  {
+    "id": 7,
+    "title": "What platforms will Cosmic Universe be playable on?",
+    "description": "<p>We plan for Cosmic Universe to initially be playable on PC via a client, as well as playable within a web browser on both PC and Mac. We are also planning to ensure the game has its own Mac client and is also playable on mobile, but these may be available a little after the PC and browser versions are made available.</p>"
+  },
+  {
+    "id": 8,
+    "title": "What do I need to play Cosmic Universe?",
+    "description": "<p>Each player will need at least one land NFT and character NFT to play Cosmic Universe. For those who cannot afford these, a scholarship program will exist and rentable NFTs will be possible.</p>"
+  },
+  {
+    "id": 9,
+    "title": "What kind of playable characters will there be?",
+    "description": "<p>Initially, there will be Wizards, followed by 6 other root races, which include Elves, Apes, Dwarves, Felines, Trolls, and Yetis. Additional races will be released according to player demand, with more races and planets released over time when the player base continues to expand.</p>"
+  },
+  {
+    "id": 10,
+    "title": "What is land?",
+    "description": "<p>Land in Cosmic Universe is represented by ERC-721 NFTs. Each land NFT is tied directly to a specific x,y coordinate on Cosmic Island, 50×50 meters in size, and is one of the two NFTs (the other being a character NFT) required to play the game. Players can develop their land with increasingly-advanced structures, earn MAGIC passively, receive daily COSMIC check-in rewards, and more. Every NPC, environment feature, spawn point, or resource node that exists on a player's land plot(s) will also be accessible by other players. Other players may come visit your land to gather or mine your resources, thus earning you a small portion of their harvested rewards.</p>"
+  },
+  {
+    "id": 11,
+    "title": "How do I buy land?",
+    "description": "<p>Land can be bought on the Cosmic Universe marketplace <a href='https://marketplace.cosmicuniverse.io/land'>here. </a></p>"
+  },
+  {
+    "id": 12,
+    "title": "Can land NFTs be Staked?",
+    "description": "<p>Yes, you can stake your land NFTs to earn MAGIC Rewards. These MAGIC rewards are accrued every 24 hours and can be collected and sent to a player's MetaMask wallet once every 1-2 weeks. The more advanced your land is, the more MAGIC rewards you can earn! Learn more about land staking <a target='_blank' href='https://info.cosmicuniverse.io/nfts/land/staking'>here. </a></p>"
+  },
+  {
+    "id": 13,
+    "title": "What is $MAGIC?",
+    "description": "<p>MAGIC is the governance, yield farming, character staking, land staking and marketplace trading token for Cosmic Universe. To buy land NFTs on our native marketplace, as well as land NFT mints, MAGIC will be needed.</p><p>MAGIC Contract Address: 0x9A8E0217cD870783c3f2317985C57Bf570969153</p>"
+  },
+  {
+    "id": 14,
+    "title": "What is $COSMIC?",
+    "description": "<p>COSMIC is used to gain reach certain thresholds and levels that will allow for more opportunities within Cosmic Universe, such as having enough COSMIC to unlock advanced artifacts, structures, and magic. The required COSMIC to unlock these elements within the game will then be burned, while the rest can be kept by the player.</p><p>Players can also simply gain more XP and level-up to unlock in-game assets, meaning paying COSMIC is not required, but it will speed up the process of acquiring assets. COSMIC can be earned through various in-game sidequests, promotions, and tournaments.</p><p>COSMIC Contract Address: 0xe48C74833ce6f18A8e54f73f1D02B8E9f9Ff8Caa</p>"
+  },
+  {
+    "id": 15,
+    "title": "What are Cosmic Wizards?",
+    "description": "<p>Cosmic Wizards is a NFT collection consisting of 10,000 generative gamified avatars (75% male, 25% female) that can be used in Cosmic Universe. Owning a Cosmic Wizard NFT is your ticket to adventure, exploration, community, and leveling-up to become Etherea Lumina in Cosmic Universe. Players can have multiple character NFTs that can be individually leveled-up and put into play within the game.</p><p>Cosmic Wizards NFT Address: 0xBF20c23D25Fca8Aa4e7946496250D67872691Af2</p>"
+  },
+  {
+    "id": 16,
+    "title": "What is the advantage of having rare features and traits on the Cosmic Wizard NFTs?",
+    "description": "<p>If you have a Cosmic Wizard NFT with at least one trait that is between 1% and 5%, you will receive a higher daily COSMIC check-in reward within Cosmic Universe when you have it in-play!</p><p>Here's how the boosted rewards system will work:</p><ul><li>1% Rarity Trait - 5% extra COSMIC per daily check-in reward</li><li>2% Rarity Trait - 4% extra COSMIC per daily check-in reward</li><li>3% Rarity Trait - 3% extra COSMIC per daily check-in reward</li><li>4% Rarity Trait - 2% extra COSMIC per daily check-in reward</li><li>5% Rarity Trait - 1% extra COSMIC per daily check-in reward</li></ul>"
+  },
+  {
+    "id": 17,
+    "title": "Where can I buy $COSMIC and $MAGIC?",
+    "description": "<p>The majority of liquidity for $COSMIC and $MAGIC is currently on the Trader Joe DEX:<a href='https://traderjoexyz.com/trade'> https://traderjoexyz.com/trade</a></p><p>You can also enter the $MAGIC yield farms here: <a href='https://marketplace.cosmicuniverse.io/farms#/farms'>https://marketplace.cosmicuniverse.io/farms#/farms</a></p>"
+  }
+]
